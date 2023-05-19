@@ -1,4 +1,4 @@
-# Django Web商城项目实战 本书源码
+# Django+Vue.js商城项目实战 本书源码
 # Overview
 Learn for book--><a href="https://item.jd.com/12604813.html">URL</a>
 <br>
